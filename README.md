@@ -34,3 +34,7 @@ The gateway may get very warm, because many updates have to be transmitted to up
 # Acknowledgements
 
 This program builds on CSharpTradfri-library from [tomidix](https://github.com/tomidix/CSharpTradFriLibrary) and [NAudio](https://github.com/naudio/NAudio"). My particular thanks to tomidix, for prompt changing and adapting his library according my requests!
+
+# Miscellaneous
+
+My former account "marioqx" is deprecated. because I cannot reset the passwort and login anymore. This account replaces my former account.
